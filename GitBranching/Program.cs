@@ -6,11 +6,7 @@ namespace GitBranching
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
-            Console.WriteLine("Adeus");
-=======
             Console.WriteLine("Bye");
->>>>>>> fixprint
         }
     }
 }
